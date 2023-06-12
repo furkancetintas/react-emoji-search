@@ -9,3 +9,7 @@ Created with _create-react-app_. See the [full create-react-app guide](https://g
 ## Usage
 
 `npm start`
+
+## Testing Result
+
+![image](./assets/test-ss.jpg)
